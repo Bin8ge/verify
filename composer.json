@@ -1,0 +1,19 @@
+{
+    "name": "bingo/verify",
+    "description": "这是测试bingo 项目",
+    "type": "library",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Bingo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lbb",
+            "email": "liangbinbin@chuanyuapp.com"
+        }
+    ]
+}
